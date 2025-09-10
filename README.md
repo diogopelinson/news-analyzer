@@ -57,8 +57,8 @@ cd news-analyzer
 ### Ative o ambiente virtual
 
 ```bash
-    venv\Scripts\activate(windows)
-    source venv/bin/activate(linux)
+venv\Scripts\activate(windows)
+source venv/bin/activate(linux)
 ```
 
 ### Instale dependências
@@ -126,7 +126,7 @@ Teste no navegador ou Postman:
 
 ---
 
-## 📸 Exemplo de Requisição da API\
+## 📸 Exemplo de Requisição da API
 
 ![alt text](image.png)
 
