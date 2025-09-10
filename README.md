@@ -60,7 +60,7 @@ cd news-analyzer
     venv\Scripts\activate(windows)
     source venv/bin/activate(linux)
 ```
-b
+
 ### Instale dependências
 
 ```bash
@@ -101,7 +101,7 @@ Teste no navegador ou Postman:
 
 ## 🛠 Tecnologias utilizadas
 
-- Python 3.10+
+- Python 
 - FastAPI → API REST
 - Pandas → ETL e manipulação de dados
 - AWS Bedrock → LLM gerenciado para análise de sentimento
